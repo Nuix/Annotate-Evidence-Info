@@ -5,7 +5,7 @@ Annotate Evidence Info
 
 ![Last tested in Nuix 7.4](https://img.shields.io/badge/Nuix-7.4-green.svg)
 
-View the GitHub project [here](https://github.com/NuixSDK/Annotate-Evidence-Info) or download the latest release [here](https://github.com/NuixSDK/Annotate-Evidence-Info/releases).
+View the GitHub project [here](https://github.com/Nuix/Annotate-Evidence-Info) or download the latest release [here](https://github.com/Nuix/Annotate-Evidence-Info/releases).
 
 # Overview
 
